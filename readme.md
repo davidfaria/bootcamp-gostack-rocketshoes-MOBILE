@@ -27,4 +27,4 @@ Desafio 07 - Migrar o sistema WEB Reactjs em MOBILE React Native.
 
 ![02](https://raw.githubusercontent.com/davidfaria/bootcamp-gostack-rocketshoes-MOBILE/master/img-demo/02.png)
 
-![03](https://raw.githubusercontent.com/davidfaria/bootcamp-gostack-rocketshoes-MOBILE/master/img-demo/02.png)
+![03](https://raw.githubusercontent.com/davidfaria/bootcamp-gostack-rocketshoes-MOBILE/master/img-demo/03.png)
